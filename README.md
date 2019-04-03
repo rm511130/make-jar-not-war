@@ -10,3 +10,7 @@ This legacy JSP app is CF-capable.
     $ cf push make-jar-not-war -p target/make-jar-not-war-0.0.1-SNAPSHOT.jar --random-route
 
 Note that this does not encourage using JSP in new applications.
+
+When you access the resulting URL, you should see something like this:
+
+![](./make-jar-not-war.png)
