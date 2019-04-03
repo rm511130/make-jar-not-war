@@ -1,5 +1,6 @@
 # Make Jar Not War 😎
-# source: https://github.com/rm511130/make-jar-not-war/edit/master/README.md
+
+### source: https://github.com/rm511130/make-jar-not-war/edit/master/README.md
 
 This is a good example for migrating existing legacy JSP application to Spring Boot.
 
