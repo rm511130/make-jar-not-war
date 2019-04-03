@@ -13,4 +13,4 @@ Note that this does not encourage using JSP in new applications.
 
 When you access the resulting URL, you should see something like this:
 
-![](./make-jar-not-war.png)
+![](./make-jar-no-war.png)
